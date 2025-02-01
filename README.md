@@ -55,7 +55,7 @@ The **Tableau Dashboard** provides:
 The **Aviation Accident Analysis Dashboard** provides **interactive visualizations** to explore **aviation accident trends, causes, and severity levels**.
 
 ### **📌 Dashboard Screenshot**  
-![Aviation Accident Analysis Dashboard](images/aviation_accident_dashboard.png)  
+![Aviation Accident Analysis Dashboard](https://github.com/muralikrishna-v/Aviation-accident-data-analysis_Tableau/blob/main/aviation_dashboard.png)  
 
 ### **📌 Key Insights & Visualizations**  
 
